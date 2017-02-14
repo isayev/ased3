@@ -1,7 +1,8 @@
 ### ASED3
 
+### NOTE: Modifified version without OpenMP flags for compatibility
 This project implements a Grimme D3 Calculator for ASE.
-NOTE: Modifified version without OpenMP flags for compatibility
+
 
 Usage:
 
